@@ -1,0 +1,10 @@
+h1 {
+    font-family: monospace;
+    font-size: 2rem;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+:root {
+    color-scheme: light dark;
+  }
